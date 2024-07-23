@@ -1,5 +1,12 @@
 ![SkinMC Mod](https://i.imgur.com/ebwcw9n.png "SkinMC Mod")
 
+
+
+#NOT DONE YET!
+Fork of the SkinMC mod to make it compatible with the latest (1.21) version of minecraft
+
+
+
 # SkinMC-Mod
 SkinMC Mod allows players to upload a custom cape using the SkinMC website which will be shown in-game. 
 
