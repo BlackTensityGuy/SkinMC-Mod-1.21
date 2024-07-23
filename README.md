@@ -2,7 +2,7 @@
 
 
 
-#NOT DONE YET!
+# NOT DONE YET!
 Fork of the SkinMC mod to make it compatible with the latest (1.21) version of minecraft
 
 
